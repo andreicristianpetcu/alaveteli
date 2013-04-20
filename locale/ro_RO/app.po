@@ -3965,7 +3965,7 @@ msgid "¿Cómo nos puedes ayudar?"
 msgstr "Cum funcționează"
 
 msgid "Solicitar información"
-msgstr "Solicită infromații"
+msgstr "Solicită informații"
 
 msgid "Localizar la institución adecuada"
 msgstr "Găsește instituția portrivită"
