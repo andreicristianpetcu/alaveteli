@@ -3941,7 +3941,7 @@ msgid "Quedan <span id='days-left'></span> días para que el PP cumpla su promes
 msgstr "<span id='days-left'></span> zile rămase pentru ca PP să își îndeplinească promisiunea de a introduce o lege despre accesul la informații"
 
 msgid "Haz una búsqueda entre las peticiones ya realizadas:"
-msgstr "Caută prin silicitările deja existente:"
+msgstr "Caută prin solicitările deja existente:"
 
 msgid "Novedades"
 msgstr "Noutăți"
