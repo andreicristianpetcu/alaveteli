@@ -2286,7 +2286,7 @@ msgid "Sign in or make a new account"
 msgstr "Intrare in cont sau creare un cont nou"
 
 msgid "Sign in or sign up"
-msgstr "Intrare în cont sau ieșire din cont"
+msgstr "Autentifică-te sau crează-ți cont"
 
 msgid "Sign out"
 msgstr "Ieşire din cont"
