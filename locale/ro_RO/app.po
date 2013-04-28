@@ -3719,7 +3719,7 @@ msgid "sign in"
 msgstr "conectare"
 
 msgid "simple_date_format"
-msgstr "format_data_simplu"
+msgstr ""
 
 msgid "successful"
 msgstr "reuşit"
