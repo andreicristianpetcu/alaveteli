@@ -853,7 +853,7 @@ msgstr "Disclosure log"
 msgid ""
 "Don't want to address your message to {{person_or_body}}?  You can also "
 "write to:"
-msgstr "Nu doriţi să adresati mesajul dvs. lui  {{person_or_body}}?  Puteţi de asemenea să-i scrieţi lui:"
+msgstr "Nu doriţi să adresati mesajul dvs. instituției  {{person_or_body}}?  Puteţi de asemenea să-i scrieţi:"
 
 msgid "Done"
 msgstr "Efectuat"
@@ -3949,6 +3949,11 @@ msgstr "Noutăți"
 msgid "Peticiones destacadas"
 msgstr "Solicitări remarcabile"
 
+msgid "Leer más »"
+msgstr "Citește mai mult »"
+
+msgid "Más novedades »"
+msgstr "Mai multe noutăți »"
 
 # Sidebar
 
