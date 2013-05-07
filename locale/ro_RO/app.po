@@ -3967,7 +3967,7 @@ msgid "Patrocinadores"
 msgstr "Sponsori"
 
 msgid "¿Cómo nos puedes ayudar?"
-msgstr "Cum funcționează"
+msgstr "Cum pot ajuta?"
 
 msgid "Solicitar información"
 msgstr "Solicită informații"
