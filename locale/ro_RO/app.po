@@ -489,7 +489,7 @@ msgid "About you:"
 msgstr "Despre dvs:"
 
 msgid "Act on what you've learnt"
-msgstr "Actţonează conform a ceea ce ai învăţat."
+msgstr "Acţionează conform a ceea ce ai învăţat."
 
 msgid "Add an annotation"
 msgstr "Adaugă o adnotare."
