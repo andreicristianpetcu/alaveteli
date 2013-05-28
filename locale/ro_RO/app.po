@@ -2075,7 +2075,7 @@ msgid "PurgeRequest|Url"
 msgstr "EliminareSolicitare|Url"
 
 msgid "RSS feed"
-msgstr "RSS feed"
+msgstr "Flux RSS"
 
 msgid "RSS feed of updates"
 msgstr "Flux RSS pentru actualizări"
@@ -2726,7 +2726,7 @@ msgstr "Aceasta este din cauză că  {{title}} este o solicitare veche ce a fost
 msgid ""
 "This is your own request, so you will be automatically emailed when new "
 "responses arrive."
-msgstr "Acesata este solicitarea dvs proprie, aşa ca vi se va comunica automat prin când va sosi un răspuns."
+msgstr "Acesata este solicitarea dvs proprie, aşa ca vi se va comunica automat prin email când va sosi un răspuns."
 
 msgid ""
 "This outgoing message has been hidden. See annotations to\\n\t\t\t\t\t\tfind"
@@ -3159,7 +3159,7 @@ msgid ""
 "We don't know whether the most recent response to this request contains\\n"
 "    information or not\\n        &ndash;\\n\tif you are {{user_link}} please"
 " <a href=\"{{url}}\">sign in</a> and let everyone know."
-msgstr "Nu ştim dacă cel mai recent răspuns la această solicitare conţine\\ninformaţie sau nu\\n &ndash;\\n»dacă ştii{{user_link}} te rugăm<a href=\"{{url}}\">autentifică-te</a>şi permite accesul tuturor."
+msgstr "Nu ştim dacă cel mai recent răspuns la această solicitare conţine informațiile cerute sau nu &ndash; » dacă ești utilizatorul {{user_link}} te rugăm <a href=\"{{url}}\">să te autenfifici</a> şi să schimbi starea solicitării."
 
 msgid ""
 "We will not reveal your email address to anybody unless you or\\n        the"
@@ -3177,7 +3177,13 @@ msgid ""
 msgstr "Nu îţi vom dezvălui adresa de email nimănui în afara cazurilor în care tu\\nsau legislaţia specificaţi altfel."
 
 msgid "We're waiting for"
-msgstr "Aşteptăm"
+msgstr "Aşteptăm ca"
+
+msgid "a recent response"
+msgstr "un răspuns recent"
+
+msgid "recent responses"
+msgstr "răspunsuri recente"
 
 msgid "We're waiting for someone to read"
 msgstr "Aşteptăm ca cineva să citească"
@@ -3564,7 +3570,7 @@ msgid ""
 msgstr "şi actualizaţi corespunzător  starea. Poate <strong>aţi dori</strong> un ajutor în acest scop?"
 
 msgid "and update the status."
-msgstr "şi actualizaţi starea"
+msgstr "şi actualizaţi starea."
 
 msgid "and we'll suggest <strong>what to do next</strong>"
 msgstr "şi noi vă vom sugera <strong>ce să faceţi în continuare</strong>"
@@ -3743,7 +3749,7 @@ msgid "the {{site_name}} team"
 msgstr "echipa {{site_name}}"
 
 msgid "to read"
-msgstr "a citi"
+msgstr "să citească"
 
 msgid "to send a follow up message."
 msgstr "a transmite un mesaj de urmărire"
@@ -3792,7 +3798,7 @@ msgid ""
 msgstr "{{existing_request_user}}a creat\\n deja aceeași solicitare pe {{date}}.  Poți fie vizualiza <a href=\"{{existing_request}}\"> solicitarea existentă </a>,\\n fie edita detaliile de mai jos pentru a face o solicitare nouă, dar similară."
 
 msgid "{{info_request_user_name}} only:"
-msgstr "numai  {{info_request_user_name}} :"
+msgstr "Numai  {{info_request_user_name}} :"
 
 msgid "{{law_used_full}} request - {{title}}"
 msgstr "solicitare {{law_used_full}}  - {{title}}"
