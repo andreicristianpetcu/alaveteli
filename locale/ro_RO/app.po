@@ -310,7 +310,7 @@ msgid ""
 "<p>If you write about this request (for example in a forum or a blog) please"
 " link to this page, and add an\\n            annotation below telling people"
 " about your writing.</p>"
-msgstr "<p>Solicitarea ta {{law_used_full}} a fost <strong>transmisă</strong>!</p>\\n <p><strong>Vei primi un email</strong> când există un răspuns sau după {{late_number_of_days}} zile lucrătoare dacă instituțiea \\n încă nu a răspuns până atunci.</p>\\n <p>Dacă scrii despre această solicitare (de exemplu pe un forum sau pe un blog) te rugăm să faci referință către această pagină și adaugă o\\n adnotare mai jos pentru a spune oamenilor despre ce ai scris.</p>"
+msgstr "<p>Solicitarea ta {{law_used_full}} a fost <strong>transmisă</strong>!</p>\\n <p><strong>Vei primi un email</strong> când există un răspuns sau după {{late_number_of_days}} zile lucrătoare dacă instituțiea \\n încă nu a răspuns până atunci.</p>\\n <p>Dacă scrii despre solicitarea ta pe vreun blog sau forum, lasă-ne un comentariu cu adresa exactă. Poate fi de ajutor altor utilizatori.</p>"
 
 msgid ""
 "<p>{{site_name}} is currently in maintenance. You can only view existing "
@@ -492,7 +492,7 @@ msgid "Act on what you've learnt"
 msgstr "Acţionează conform a ceea ce ai învăţat."
 
 msgid "Add an annotation"
-msgstr "Adaugă o adnotare."
+msgstr "Adaugă un comentariu."
 
 msgid ""
 "Add an annotation to your request with choice quotes, or\\n                a"
@@ -561,7 +561,7 @@ msgstr "Deși toate răspunsurile sunt publicate automat, depindem de \\ntine, c
 msgid ""
 "An <a href=\"{{request_url}}\">annotation</a> to <em>{{request_title}}</em> "
 "was made by {{event_comment_user}} on {{date}}"
-msgstr "O <a href=\"{{request_url}}\">adnotare</a> către <em>{{request_title}}</em> a fost făcută de către {{event_comment_user}} la  {{date}}"
+msgstr "Un <a href=\"{{request_url}}\">comentariu</a> către <em>{{request_title}}</em> a fost făcută de către {{event_comment_user}} la  {{date}}"
 
 msgid "An <strong>error message</strong> has been received"
 msgstr "Un  <strong>mesaj de eroare </strong> a fost primit"
@@ -779,7 +779,7 @@ msgid "Confirm your account on {{site_name}}"
 msgstr "Confirmati contul dvs pe  {{site_name}}"
 
 msgid "Confirm your annotation to {{info_request_title}}"
-msgstr "Confirmaţi adnotarea dvs. la  {{info_request_title}}"
+msgstr "Confirmaţi comentariul dvs. la  {{info_request_title}}"
 
 msgid "Confirm your email address"
 msgstr "Confirmaţi adresa dvs. de email"
@@ -1214,7 +1214,7 @@ msgstr "Am primit  <strong>un mesaj de eroare</strong>"
 msgid ""
 "If the address is wrong, or you know a better address, please <a "
 "href=\"%s\">contact us</a>."
-msgstr "Dacă adresa este greşită sau dacă cunoaşteţi o altă adresă, vă rugăm <a href=\"%s\">să ne contactaţi</a>."
+msgstr "Dacă adresa e greșită sau știi una nouă, <a href=\"%s\">contactează-ne.</a>"
 
 msgid ""
 "If this is incorrect, or you would like to send a late response to the "
@@ -1617,7 +1617,7 @@ msgstr "Nimic făcut."
 msgid ""
 "Note that the requester will not be notified about your annotation, because "
 "the request was published by {{public_body_name}} on their behalf."
-msgstr "Reţineți că solicitantul nu va fi notificat cu privire la adnotarea dvs deoarece solicitare a fost publictă de către {{public_body_name}} în numele lor."
+msgstr "Reţineți că solicitantul nu va fi notificat cu privire la comentariul dvs deoarece solicitare a fost publictă de către {{public_body_name}} în numele lui."
 
 msgid "Now check your email!"
 msgstr "Verificati-vă email-ul !"
@@ -1922,7 +1922,7 @@ msgid "Possibly related requests:"
 msgstr "Posibile solicitări asemănătoare:"
 
 msgid "Post annotation"
-msgstr "Postaţi o adnotare"
+msgstr "Postaţi un comentariu"
 
 msgid "Post redirect"
 msgstr "Redirecţionare postare"
@@ -1961,7 +1961,7 @@ msgid "Preview new annotation on '{{info_request_title}}'"
 msgstr "Previzualizaţi  noi adnotări la '{{info_request_title}}'"
 
 msgid "Preview your annotation"
-msgstr "Previzualizaţi adnotarea dvs."
+msgstr "Previzualizaţi comentariul dvs."
 
 msgid "Preview your message"
 msgstr "Previzualizaţi mesajul dvs."
@@ -2081,7 +2081,7 @@ msgid "RSS feed of updates"
 msgstr "Flux RSS pentru actualizări"
 
 msgid "Re-edit this annotation"
-msgstr "Re-editaţi această adnotare"
+msgstr "Re-editaţi acest comentariu"
 
 msgid "Re-edit this message"
 msgstr "Re-editaţi  acest mesaj"
@@ -2405,7 +2405,7 @@ msgid "Thank you for helping us keep the site tidy!"
 msgstr "Vă mulţumim pentru că ne ajutaţi să menţinem acest site îngrijit !"
 
 msgid "Thank you for making an annotation!"
-msgstr "Vă mulţumim pentru adnotarea făcută!"
+msgstr "Mulțumim pentru comentariu!"
 
 msgid ""
 "Thank you for responding to this FOI request! Your response has been "
@@ -2623,7 +2623,7 @@ msgid "Then your FOI request to {{public_body_name}} will be sent."
 msgstr "Apoi solicitare dvs.  FOI către {{public_body_name}} va fi trimisă."
 
 msgid "Then your annotation to {{info_request_title}} will be posted."
-msgstr "Apoi adnotarea dvs. către {{info_request_title}} va fi postată."
+msgstr "Apoi comentariul dvs. către {{info_request_title}} va fi postat."
 
 msgid ""
 "There are {{count}} new annotations on your {{info_request}} request. Follow"
@@ -2749,9 +2749,9 @@ msgstr[2] "A %d -a solicitare FOI a acestei persoane"
 
 msgid "This person's %d annotation"
 msgid_plural "This person's %d annotations"
-msgstr[0] "A %d -a adnotare a acestei persoane"
-msgstr[1] "A %d -a adnotare a acestei persoane"
-msgstr[2] "A %d -a adnotare a acestei persoane"
+msgstr[0] "A %d -a comentariul a acestei persoane"
+msgstr[1] "A %d -a comentariul a acestei persoane"
+msgstr[2] "A %d -a comentariul a acestei persoane"
 
 msgid "This person's annotations"
 msgstr "Adnotările acestei persoane"
@@ -2907,7 +2907,7 @@ msgid "To play the request categorisation game"
 msgstr "Pentru a juca jocu categorisirea solicitării"
 
 msgid "To post your annotation"
-msgstr "Pentru a posta adnotarea dvs"
+msgstr "Pentru a posta comentariul dvs"
 
 msgid "To reply to "
 msgstr "Pentru a răspunde la"
@@ -3478,7 +3478,7 @@ msgstr "Mesajul dvs. va apărea în <strong>motoarele de căutare</strong>"
 
 msgid ""
 "Your name and annotation will appear in <strong>search engines</strong>."
-msgstr "Numele şi  adnotarea dvs. vor apărea în <strong>motoarele de căutare</strong>"
+msgstr "Numele şi comentariul dvs. vor apărea în <strong>motoarele de căutare</strong>"
 
 msgid ""
 "Your name, request and any responses will appear in <strong>search "
@@ -3668,7 +3668,7 @@ msgid "just to see how it works"
 msgstr "doar să vedeţi cum funcţionează"
 
 msgid "left an annotation"
-msgstr "lăsaţi o adnotare"
+msgstr "lăsaţi un comentariu"
 
 msgid "made."
 msgstr "efectuat."
@@ -3851,11 +3851,11 @@ msgstr "{{site_name}} acoperă solicitările către  {{number_of_authorities}} a
 msgid ""
 "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for "
 "this authority."
-msgstr "{{site_name}} trimite noi solicitări către <strong>{{request_email}}</strong> pentru această instituție."
+msgstr "Folosim adresa <strong>{{request_email}}</strong> pentru această instituție."
 
 msgid ""
 "{{site_name}} users have made {{number_of_requests}} requests, including:"
-msgstr "utilizatorii {{site_name}}  au făcut  {{number_of_requests}} solicitări, inclusiv:"
+msgstr "utilizatorii {{site_name}} au făcut {{number_of_requests}} solicitări, inclusiv:"
 
 msgid "{{title}} - a Freedom of Information request to {{public_body}}"
 msgstr "{{title}} - o solicitare FOI către {{public_body}}"
@@ -3870,7 +3870,7 @@ msgid "{{user_name}} - user profile"
 msgstr "{{user_name}} - profil utilizator"
 
 msgid "{{user_name}} added an annotation"
-msgstr "{{user_name}} a adăugat o adnotare"
+msgstr "{{user_name}} a adăugat un comentariu"
 
 msgid ""
 "{{user_name}} has annotated your {{law_used_short}} \\nrequest. Follow this "
@@ -3887,7 +3887,7 @@ msgid "{{user_name}} sent a request to {{public_body}}"
 msgstr "{{user_name}} a trimis o solicitare către {{public_body}}"
 
 msgid "{{username}} left an annotation:"
-msgstr "{{username}} a lăsat o adnotare:"
+msgstr "{{username}} a lăsat un comentariu:"
 
 msgid ""
 "{{user}} ({{user_admin_link}}) made this {{law_used_full}} request (<a "
