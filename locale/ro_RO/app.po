@@ -706,7 +706,7 @@ msgid "Check for mistakes if you typed or copied the address."
 msgstr "Verificaţi greşeli, dacă aţi tastat sau aţi copiat adresa."
 
 msgid "Check you haven't included any <strong>personal information</strong>."
-msgstr "Verificaţ că nu aţi inclus nici un fel de  <strong> informaţii personale</strong>."
+msgstr "Verificaţi că nu aţi inclus nici un fel de <strong>informaţii personale</strong>."
 
 msgid "Choose your profile photo"
 msgstr "Alegeti poza de profil"
@@ -3941,7 +3941,7 @@ msgid "Quedan <span id='days-left'></span> días para que el PP cumpla su promes
 msgstr "<span id='days-left'></span> zile rămase pentru ca PP să își îndeplinească promisiunea de a introduce o lege despre accesul la informații"
 
 msgid "Haz una búsqueda entre las peticiones ya realizadas:"
-msgstr "Caută prin solicitările deja existente:"
+msgstr "Vezi ce solicitări au făcut alții:"
 
 msgid "Novedades"
 msgstr "Noutăți"
