@@ -175,7 +175,7 @@ msgid "<a class=\"link_button_green\" href=\"{{url}}\">{{text}}</a>"
 msgstr "<a class=\"link_button_green\" href=\"{{url}}\">{{text}}</a>"
 
 msgid "<a href=\"%s\">Add an annotation</a> (to help the requester or others)"
-msgstr "<a href=\"%s\">Adaugă o notă</a> (pentru a ajuta petentul sau pe alții)"
+msgstr "<a href=\"%s\">Adaugă un comentariu</a> (pentru a ajuta petentul sau pe alții)"
 
 msgid "<a href=\"%s\">Are we missing a public authority?</a>"
 msgstr "<a href=\"%s\">Ne lipseşte o instituție publică?</a>"
@@ -492,7 +492,7 @@ msgid "Act on what you've learnt"
 msgstr "Acţionează conform a ceea ce ai învăţat."
 
 msgid "Add an annotation"
-msgstr "Adaugă un comentariu."
+msgstr "Adaugă un comentariu"
 
 msgid ""
 "Add an annotation to your request with choice quotes, or\\n                a"
@@ -1082,19 +1082,19 @@ msgid ""
 msgstr "Legislaţia Libertăţii de Informare nu se mai  aplică la aceasta instituție. Urmăririle aferente mesajelor existente sunt trimise către"
 
 msgid "Freedom of Information requests made"
-msgstr "Cereri \"Libertatea de informare\" făcute"
+msgstr "Solicitări \"Libertatea de informare\" făcute"
 
 msgid "Freedom of Information requests made by this person"
-msgstr "Cereri \"Libertatea de informare\" făcute de această persoană"
+msgstr "Solicitări \"Libertatea de informare\" făcute de această persoană"
 
 msgid "Freedom of Information requests made by you"
-msgstr "Cereri \"Libertatea de informare\" făcute de dvs."
+msgstr "Solicitări \"Libertatea de informare\" făcute de dvs."
 
 msgid "Freedom of Information requests made using this site"
-msgstr "Cereri \"Libertatea de informare\" făcute utilizănd acest site"
+msgstr "Solicitări \"Libertatea de informare\" făcute utilizănd acest site"
 
 msgid "Freedom of information requests to"
-msgstr "Cereri \"Libertatea de informare\" făcute  către"
+msgstr "Solicitări \"Libertatea de informare\" făcute  către"
 
 msgid "From"
 msgstr "De la"
@@ -1335,7 +1335,7 @@ msgid "IncomingMessage|Valid to reply to"
 msgstr "Mesaj primit |Valid pentru răspuns la"
 
 msgid "Individual requests"
-msgstr "Cereri individuale"
+msgstr "Solicitări individuale"
 
 msgid "Info request"
 msgstr "Solicitare info"
@@ -1544,7 +1544,7 @@ msgid "My request has been <strong>refused</strong>"
 msgstr "Solicitarea mea a fost <strong>refuzată</strong>"
 
 msgid "My requests"
-msgstr "Cererile mele"
+msgstr "Solicitările mele"
 
 msgid "My wall"
 msgstr "Peretele meu"
@@ -2151,7 +2151,7 @@ msgid ""
 msgstr "Solicitările de informații personale și solicitările ofensatoare nu sunt considerate valide pentru scopurile solicitărilor de acces la informații (<a href=\"/help/about\">citește mai multe</a>)."
 
 msgid "Requests or responses matching your saved search"
-msgstr "Cereri sau răspunsuri care întrunesc căutarea dvs."
+msgstr "Solicitări sau răspunsuri care întrunesc căutarea dvs."
 
 msgid "Respond by email"
 msgstr "Răspuns prin email"
@@ -2295,7 +2295,7 @@ msgid "Sign up"
 msgstr "Înscriere "
 
 msgid "Similar requests"
-msgstr "Cereri similare"
+msgstr "Solicitări similare"
 
 msgid "Simple search"
 msgstr "Căutare simplă"
@@ -2315,7 +2315,7 @@ msgid ""
 msgstr "O parte din cei ce au trimis solicitări nu ne-au anunțat dacă acestea au avut sau nu succes. Avem nevoie de <strong>ajutorul și de contribuția</strong> ta;\\nalege un dintre aceste solicitări, citește-o, și spune-ne dacă \\ninformațiile au fost furnizate sau nu. Toată lumea va fi recunoascătoare."
 
 msgid "Somebody added a note to your FOI request - "
-msgstr "Cineva a adăugat o notă la solicitarea dvs. FOI"
+msgstr "Cineva a adăugat un comentariu la solicitarea dvs. FOI"
 
 msgid "Someone has updated the status of your request"
 msgstr "Cineva a actualizat starea solicitării dvs."
@@ -2373,7 +2373,7 @@ msgid "Subscribe to blog"
 msgstr "Înscriere pentru blog"
 
 msgid "Successful Freedom of Information requests"
-msgstr "Cereri FOI cu succes"
+msgstr "Solicitări FOI cu succes"
 
 msgid "Successful."
 msgstr "Succes"
