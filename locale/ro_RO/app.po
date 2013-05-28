@@ -2370,7 +2370,7 @@ msgid "Submit status"
 msgstr "Trimite starea"
 
 msgid "Subscribe to blog"
-msgstr "Înscriere pentru blog"
+msgstr "Abonează-te la blog"
 
 msgid "Successful Freedom of Information requests"
 msgstr "Solicitări FOI cu succes"
@@ -3953,7 +3953,7 @@ msgid "Novedades"
 msgstr "Noutăți"
 
 msgid "Peticiones destacadas"
-msgstr "Solicitări remarcabile"
+msgstr "Solicitări populare"
 
 msgid "Leer más »"
 msgstr "Citește mai mult »"
