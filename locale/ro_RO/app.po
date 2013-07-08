@@ -587,8 +587,8 @@ msgstr "Oricine:"
 msgid "Applies to"
 msgstr "Se aplică la"
 
-msgid "Are we missing a public authority?"
-msgstr "Ne lipseşte o autoritate publică?"
+msgid "<a href=\"%s\">Are we missing a public authority?</a>"
+msgstr "<a href=\"%s\">Ne lipseşte o autoritate publică?</a>"
 
 msgid "Are you the owner of any commercial copyright on this page?"
 msgstr "Ai un drept de Proprietate Intelectuală asupra vreunei mărci de pe pagina aceasta?"
@@ -1574,6 +1574,12 @@ msgstr "MailServerLog|Line"
 
 msgid "MailServerLog|Order"
 msgstr "MailServerLog|Order"
+
+msgid "Make a new <strong>Freedom of Information</strong> request to {{public_body}}"
+msgstr "Faceți o nouă <strong>solicitare de infromații</strong> instituției {{public_body}}"
+
+msgid "Make a new<br/>\\n  <strong>Freedom <span>of</span><br/>\\n  Information<br/>\\n  request</strong>"
+msgstr "Faceți o nouă<br/>\\n  <strong>solicitare <span>de</span><br/>\\n  informații<br/></strong>"
 
 msgid ""
 "Make a new<br/>\\n  <strong>Freedom <span>of</span><br/>\\n  "
@@ -3983,6 +3989,12 @@ msgid_plural "{{count}} requests"
 msgstr[0] "{{count}}  solicitare"
 msgstr[1] "{{count}} solicitări"
 msgstr[2] "{{count}} solicitări"
+
+msgid "%d request made."
+msgid_plural "%d requests made."
+msgstr[0] "%d solicitare făcută."
+msgstr[1] "%d solicitări făcute."
+msgstr[2] "%d solicitări făcute."
 
 msgid "{{count}} request made."
 msgid_plural "{{count}} requests made."
