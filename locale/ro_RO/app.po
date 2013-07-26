@@ -833,7 +833,11 @@ msgid "Dear {{name}},"
 msgstr ""
 
 msgid "Dear {{public_body_name}},"
-msgstr "Stimată {{public_body_name}},"
+msgstr ""
+"Către {{public_body_name}},\n\n"
+"prin grija compartimentului de informare şi relaţii publice:\n\n"
+"Nu vă supăraţi,\n"
+"Conform Legii nr. 544/2001 privind liberul acces la informaţiile de interes public, doresc să primesc câte o copie a documentelor oficiale care conţin următoarele informaţii:\n"
 
 msgid "Default locale"
 msgstr "Default locale"
@@ -3676,7 +3680,9 @@ msgid "Your {{site_name}} email alert"
 msgstr "Alerta ta prin email de la {{site_name}}"
 
 msgid "Yours faithfully,"
-msgstr "Cu respect,"
+msgstr ""
+"*Sunt dispus să plătesc taxele aferente serviciilor de copiere pentru documentele solicitate (dacă solicitaţi copii imprimate pe suport fizic, de hârtie, de exemplu--în acest caz, nu uitaţi să completaţi adresa de corespondenţă sub semnatură).\n\n"
+"Vă mulţumesc,"
 
 msgid "Yours sincerely,"
 msgstr "Cu stimă,"
