@@ -4030,10 +4030,10 @@ msgid "{{info_request_user_name}} only:"
 msgstr "numai  {{info_request_user_name}} :"
 
 msgid "{{law_used_full}} request - {{title}}"
-msgstr "solicitare {{law_used_full}}  - {{title}}"
+msgstr "Solicitare {{law_used_full}}  - {{title}}"
 
 msgid "{{law_used_full}} request GQ - {{title}}"
-msgstr "solicitare  GQ {{law_used_full}}  - {{title}}"
+msgstr "Solicitare  GQ {{law_used_full}}  - {{title}}"
 
 msgid "{{law_used}} requests at {{public_body}}"
 msgstr "{{law_used}} solicitări către {{public_body}}"
