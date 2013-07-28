@@ -3681,7 +3681,7 @@ msgstr "Alerta ta prin email de la {{site_name}}"
 
 msgid "Yours faithfully,"
 msgstr ""
-"*Sunt dispus să plătesc taxele aferente serviciilor de copiere pentru documentele solicitate (dacă solicitaţi copii imprimate pe suport fizic, de hârtie, de exemplu--în acest caz, nu uitaţi să completaţi adresa de corespondenţă sub semnatură).\n\n"
+"Sunt dispus să plătesc taxele aferente serviciilor de copiere pentru documentele solicitate (dacă solicitaţi copii imprimate pe suport fizic, de hârtie, de exemplu--în acest caz, nu uitaţi să completaţi adresa de corespondenţă sub semnatură).\n\n"
 "Vă mulţumesc,"
 
 msgid "Yours sincerely,"
