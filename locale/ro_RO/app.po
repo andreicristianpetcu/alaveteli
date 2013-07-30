@@ -650,8 +650,8 @@ msgstr "Conform legii {{public_body_link}} ar fi trebuit să vă răspundă <str
 msgid "Calculated home page"
 msgstr "Calculated home page"
 
-msgid "Can't find the one you want?"
-msgstr "Nu găsești persoana căutată?"
+msgid "<a href="%s">Can\'t find the one you want?</a>"
+msgstr "<a href="%s">Nu găsești instituția?</a>"
 
 msgid "Cancel a {{site_name}} alert"
 msgstr "Anulaţi o alerta {{site_name}} "
@@ -2354,7 +2354,7 @@ msgid "Select the authority to write to"
 msgstr "Selectaţi autoritatea căreia să îi scrieţi"
 
 msgid "Send a followup"
-msgstr "Trimiteţi o urmărire"
+msgstr "Trimite încă un mesaj instituției"
 
 msgid "Send a message to "
 msgstr "Trimite un mesaj"
@@ -2402,7 +2402,7 @@ msgid "Sign in or make a new account"
 msgstr "Intrare in cont sau creare un cont nou"
 
 msgid "Sign in or sign up"
-msgstr "Intrare în cont sau ieșire din cont"
+msgstr "Autentifică-te sau crează-ți cont"
 
 msgid "Sign out"
 msgstr "Ieşire din cont"
@@ -4030,7 +4030,7 @@ msgid ""
 msgstr "{{existing_request_user}}a creat\\n deja aceeași solicitare pe {{date}}.  Poți fie vizualiza <a href=\"{{existing_request}}\"> solicitarea existentă </a>,\\n fie edita detaliile de mai jos pentru a face o solicitare nouă, dar similară."
 
 msgid "{{info_request_user_name}} only:"
-msgstr "numai  {{info_request_user_name}} :"
+msgstr "Numai  {{info_request_user_name}} :"
 
 msgid "{{law_used_full}} request - {{title}}"
 msgstr "Solicitare {{law_used_full}}  - {{title}}"
@@ -4057,7 +4057,7 @@ msgid "{{public_body_link}} was sent a request about"
 msgstr "{{public_body_link}} a primit o solicitare despre"
 
 msgid "{{public_body_name}} only:"
-msgstr "numai {{public_body_name}} :"
+msgstr "Numai {{public_body_name}} :"
 
 msgid ""
 "{{public_body}} has asked you to explain part of your {{law_used}} request."
