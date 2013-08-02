@@ -293,7 +293,7 @@ msgid ""
 "<p>If you write about this request (for example in a forum or a blog) please"
 " link to this page, and add an\\n            annotation below telling people"
 " about your writing.</p>"
-msgstr "<p>Solicitarea ta {{law_used_full}} a fost <strong>transmisă</strong>!</p>\\n <p><strong>Vei primi un email</strong> când există un răspuns sau după {{late_number_of_days}} zile lucrătoare dacă autoritatea \\n încă nu a răspuns până atunci.</p>\\n <p>Dacă scrii despre această solicitare (de exemplu pe un forum sau pe un blog) te rugăm să faci referință către această pagină și adaugă o\\n adnotare mai jos pentru a spune oamenilor despre ce ai scris.</p>"
+msgstr "<p>Solicitarea ta {{law_used_full}}a fost <strong>transmisă</strong>!</p>\\n <p><strong>Vei primi un email</strong> când există un răspuns sau după {{late_number_of_days}} zile lucrătoare dacă autoritatea \\n încă nu a răspuns până atunci.</p>\\n <p>Dacă scrii despre această solicitare (de exemplu pe un forum sau pe un blog) te rugăm să faci referință către această pagină și adaugă o\\n adnotare mai jos pentru a spune oamenilor despre ce ai scris.</p>"
 
 msgid ""
 "<p>{{site_name}} is currently in maintenance. You can only view existing "
@@ -1095,10 +1095,10 @@ msgstr[1] "Găsit {{count}} autorităţi publice {{description}}"
 msgstr[2] "Găsit autorităţi publice {{description}}"
 
 msgid "Freedom of Information"
-msgstr "Libertatea de Informare"
+msgstr ""
 
 msgid "Freedom of Information Act"
-msgstr "Actul \"Libertatea de Informare\""
+msgstr "Legea 544/2001"
 
 msgid ""
 "Freedom of Information law does not apply to this authority, so you cannot "
@@ -1162,7 +1162,7 @@ msgstr ""
 msgid ""
 "Hello! You can make Freedom of Information requests within {{country_name}} "
 "at {{link_to_website}}"
-msgstr "Puteţi face solicitări  \"Libertatea de informare\" în  {{country_name}} la {{link_to_website}}"
+msgstr "Puteţi face solicitări în {{country_name}} la {{link_to_website}}"
 
 msgid "Hello, {{username}}!"
 msgstr "Hello, {{username}}!"
@@ -2175,10 +2175,10 @@ msgid "PurgeRequest|Url"
 msgstr "EliminareSolicitare|Url"
 
 msgid "RSS feed"
-msgstr "RSS feed"
+msgstr "Flux RSS"
 
 msgid "RSS feed of updates"
-msgstr "RSS feed pentru actualizări"
+msgstr "Flux RSS pentru actualizări"
 
 msgid "Re-edit this annotation"
 msgstr "Re-editaţi această adnotare"
@@ -3025,7 +3025,7 @@ msgid ""
 "\\n{{law_used_full}} request {{title}} that you made to {{public_body}}, to "
 "\"{{display_status}}\" If you disagree with their categorisation, please "
 "update the status again yourself to what you believe to be more accurate."
-msgstr "Pentru a ne ajuta să ţinem site-ul curat, altcineva a actualizat statusul \\n{{law_used_full}}solicitării{{title}} pe care ai făcut-o către {{public_body}}, în \"{{display_status}}\". Dacă nu eşti de acord cu această categorisire, te rugăm să actualizezi statusul din nou  în ceea ce consideri că este mai potrivit."
+msgstr "Pentru a ne ajuta să ţinem site-ul curat, altcineva a actualizat statusul \\n{{law_used_full}}solicitării {{title}} pe care ai făcut-o către {{public_body}}, în \"{{display_status}}\". Dacă nu eşti de acord cu această categorisire, te rugăm să actualizezi statusul din nou  în ceea ce consideri că este mai potrivit."
 
 msgid ""
 "To let everyone know, follow this link and then select the appropriate box."
@@ -3137,6 +3137,10 @@ msgstr "Tip neaşteptat de  rezultat la căutare"
 msgid "Unexpected search result type "
 msgstr "Tip neaşteptat de  rezultat la căutare"
 
+msgid "Unfortunately, we do not have a working {{info_request_law_used_full}}\\naddress for"
+msgstr ""
+"Din păcate nu avem o adresă funcțională pentru {{info_request_law_used_full}} "
+
 msgid ""
 "Unfortunately we don't know the FOI\\nemail address for that authority, so "
 "we can't validate this.\\nPlease <a href=\"{{url}}\">contact us</a> to sort "
@@ -3146,7 +3150,7 @@ msgstr "Din păcate, nu ştim adresa de email pentru solicitări de acces la inf
 msgid ""
 "Unfortunately, we do not have a working "
 "{{info_request_law_used_full}}\\naddress for"
-msgstr "Din păcate, nu avem o adresă funcţională {{info_request_law_used_full}}\\npentru"
+msgstr "Din păcate, nu avem o adresă funcţională {{info_request_law_used_full}} pentru instituția "
 
 msgid "Unknown"
 msgstr "Necunoscut"
@@ -3300,7 +3304,7 @@ msgstr "Nu avem o adresă de email valabilă pentru solicitările adresate acest
 
 msgid ""
 "We do not have a working {{law_used_full}} address for {{public_body_name}}."
-msgstr "Nu avem o  adresă {{law_used_full}}  valabilă pentru {{public_body_name}}."
+msgstr "Nu avem o adresă {{law_used_full}}valabilă pentru {{public_body_name}}."
 
 msgid ""
 "We don't know whether the most recent response to this request contains\\n"
