@@ -645,7 +645,7 @@ msgstr "Conform legii, în oricare circumstanţe, {{public_body_link}} ar fi tre
 msgid ""
 "By law, {{public_body_link}} should normally have responded "
 "<strong>promptly</strong> and"
-msgstr "Conform legii {{public_body_link}} ar fi trebuit să vă răspundă <strong>promt </strong> si "
+msgstr "Conform legii {{public_body_link}} ar fi trebuit să vă răspundă <strong>prompt </strong> si "
 
 msgid "Calculated home page"
 msgstr "Calculated home page"
