@@ -68,7 +68,7 @@ elsif [ 'sent', 'followup_sent' ].include?(info_request_event.event_type)
                 <% raise "unknown message_type" %>
             <% end %>
 
-            <%= public_body_link(@info_request.public_body) %> again<% if not info_request_event.same_email_as_previous_send? %>, using a new contact address<% end %>.
+            <%= public_body_link(@info_request.public_body) %><% if not info_request_event.same_email_as_previous_send? %>, folosind o adresă nouă<% end %>.
          </p>
     </div>
 <% elsif info_request_event.event_type == 'comment'

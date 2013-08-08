@@ -1095,7 +1095,7 @@ msgstr[1] "Găsit {{count}} autorităţi publice {{description}}"
 msgstr[2] "Găsit autorităţi publice {{description}}"
 
 msgid "Freedom of Information"
-msgstr ""
+msgstr "de acces la informație"
 
 msgid "Freedom of Information Act"
 msgstr "Legea 544/2001"
@@ -3330,7 +3330,7 @@ msgid ""
 msgstr "Nu îţi vom dezvălui adresa de email nimănui în afara cazurilor în care tu\\nsau legislaţia specificaţi altfel."
 
 msgid "We're waiting for"
-msgstr "Aşteptăm"
+msgstr "Aşteptăm ca utilizatorul"
 
 msgid "We're waiting for someone to read"
 msgstr "Aşteptăm ca cineva să citească"
@@ -3740,7 +3740,7 @@ msgid ""
 msgstr "şi actualizaţi corespunzător  starea. Poate <strong>aţi dori</strong> un ajutor în acest scop?"
 
 msgid "and update the status."
-msgstr "şi actualizaţi starea"
+msgstr "şi să actualizeze starea"
 
 msgid "and we'll suggest <strong>what to do next</strong>"
 msgstr "şi noi vă vom sugera <strong>ce să faceţi în continuare</strong>"
@@ -3942,7 +3942,13 @@ msgid "the {{site_name}} team"
 msgstr "echipa {{site_name}}"
 
 msgid "to read"
-msgstr "a citi"
+msgstr "să citească"
+
+msgid "a recent response"
+msgstr "răspunsul"
+
+msgid "recent responses"
+msgstr "răspunsurile"
 
 msgid "to send a follow up message."
 msgstr "a transmite un mesaj de urmărire"
