@@ -3004,7 +3004,7 @@ msgid "To classify the response to this FOI request"
 msgstr "Pentru a clasifica răspunsul la această solicitare de acces la informații"
 
 msgid "To do that please send a private email to "
-msgstr "Pentru a face aceasta, vă rugăm trimiteţi un email privat la"
+msgstr "Pentru a face aceasta, vă rugăm trimiteţi un email privat la "
 
 msgid "To do this, first click on the link below."
 msgstr "Pentru a face aceasta, mai întâi daţi click pe linkul de mai jos"
@@ -3551,7 +3551,7 @@ msgstr "Ar fi trebuit să primești o copie a solicitării tale prin email și p
 msgid ""
 "You want to <strong>give your postal address</strong> to the authority in "
 "private."
-msgstr "Vrei să <strong>să specifici adresa ta poştală</strong> către autoritate în privat."
+msgstr "Vrei să <strong>să specifici adresa ta poştală</strong> către instituție în privat."
 
 msgid ""
 "You will be unable to make new requests, send follow ups, add annotations "
