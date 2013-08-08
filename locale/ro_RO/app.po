@@ -314,8 +314,8 @@ msgid ""
 msgstr "<small>Dacă utilizaţi un serviciu email  de tip web sau dacă aveţi filtre pentru poşta nedorită, verificaţi de asemenea folderele  \\nbulk/spam de email. Uneori mesajele noastre sunt marcate astfel.</small>\\n</p>"
 
 msgid ""
-"<strong> Can I request information about myself?</strong>\n\t\t\t<a "
-"href=\"%s\">No! (Click here for details)</a>
+"<strong> Can I request information about myself?</strong>\\n\t\t\t<a "
+"href=\"%s\">No! (Click here for details)</a>"
 msgstr "<strong>Pot să solicit informaţii despre mine?</strong>"
 "<a href=\"%s\">Nu! (Click aici pentur detalii)</a>"
 
@@ -413,7 +413,7 @@ msgid ""
 "<strong>Privacy note:</strong> If you want to request private information "
 "about\\n    yourself then <a href=\"%s\">click here</a>."
 msgstr "<strong>Notă de confidențialitate:</strong> Dacă dorești să soliciți "
-"informații personale despre tine atunci <a href=\"{{url}}\">apasă aici</a>."
+"informații personale despre tine atunci <a href=\"%s\">apasă aici</a>."
 
 msgid ""
 "<strong>Privacy note:</strong> Your photo will be shown in public on the "
@@ -970,8 +970,9 @@ msgstr ""
 msgid ""
 "Everything that you enter on this page\\n                will be "
 "<strong>displayed publicly</strong> on\\n                this website "
-"forever (<a href=\"{{url}}\">why?</a>)."
-msgstr "Tot ceea ce postezi pe această pagină  \\n va fi <strong>făcut public</strong> pe\\n acest website permanent (<a href=\"{{url}}\">de ce?</a>)."
+"forever (<a href=\"%s\">why?</a>)."
+msgstr "Tot ceea ce postezi pe această pagină va fi <strong>făcut public
+"</strong> pe acest site permanent (<a href=\"%s\">de ce?</a>)."
 
 msgid "FOI"
 msgstr "solicitare de acces la informații"
@@ -1101,9 +1102,9 @@ msgstr "Aţi uitat parola ?"
 
 msgid "Found %d public authority %s"
 msgid_plural "Found %d public authorities %s"
-msgstr[0] "Găsit %d autorități publice %s"
-msgstr[1] "Găsit %d autorități publice %s"
-msgstr[2] "Găsit %d autorități publice %s"
+msgstr[0] "Am găsit %d autorități publice %s"
+msgstr[1] "Am găsit %d autorități publice %s"
+msgstr[2] "Am găsit %d autorități publice %s"
 
 msgid "Freedom of Information"
 msgstr "de acces la informație"
@@ -2384,7 +2385,7 @@ msgid "Send message"
 msgstr "Trimite un mesaj"
 
 msgid "Send message to "
-msgstr "Trimite un mesaj către"
+msgstr "Trimite un mesaj către "
 
 msgid "Send request"
 msgstr "Trimite solicitare"
