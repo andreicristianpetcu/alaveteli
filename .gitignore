@@ -22,3 +22,5 @@ TAGS
 bin/
 config/aliases
 .sass-cache
+*.pid
+*.lock

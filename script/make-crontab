@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 import re
 
-mailto = "recipient-of-any-errors@localhost"
-user = "user-to-run-as"
-location = "/path/to/alaveteli"
+mailto = "andrei@ceata.org"
+user = "www-data"
+location = "/var/www/alaveteli"
 
 template = open("config/crontab.ugly").read()
 template = re.sub(r"MAILTO=.*", "MAILTO=%s" % mailto, template)
