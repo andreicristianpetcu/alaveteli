@@ -60,16 +60,15 @@ elsif [ 'sent', 'followup_sent' ].include?(info_request_event.event_type)
             <%= simple_date(info_request_event.created_at) %>
         </h2>
         <p class="event_plain">
-            Sent
             <% if info_request_event.outgoing_message.message_type == 'initial_request' %>
-                request
+                Solicitarea a fost retrimisă instituției 
             <% elsif info_request_event.outgoing_message.message_type == 'followup' %>
-                a follow up
+                Mesajul a fost trimis instituției 
             <% else %>
                 <% raise "unknown message_type" %>
             <% end %>
 
-            to <%= public_body_link(@info_request.public_body) %> again<% if not info_request_event.same_email_as_previous_send? %>, using a new contact address<% end %>.
+            <%= public_body_link(@info_request.public_body) %><% if not info_request_event.same_email_as_previous_send? %>, folosind o adresă nouă<% end %>.
          </p>
     </div>
 <% elsif info_request_event.event_type == 'comment'

@@ -27,7 +27,7 @@ GEM
     annotate (2.4.0)
     archive-tar-minitar (0.5.2)
     bootstrap-sass (2.1.1.0)
-    capistrano (2.13.4)
+    capistrano (2.14.2)
       highline
       net-scp (>= 1.0.0)
       net-sftp (>= 2.0.0)

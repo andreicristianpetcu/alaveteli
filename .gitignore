@@ -22,5 +22,15 @@ TAGS
 bin/
 config/aliases
 .sass-cache
-*.pid
-*.lock
+.project
+alert-comment-on-request.lock
+alert-new-response-reminders.lock
+alert-not-clarified-request.lock
+alert-overdue-requests.lock
+alert-tracks.pid
+change-xapian-database.lock
+check-recent-requests-sent.lock
+delete-old-things.lock
+load-mail-server-logs.lock
+purge-varnish.pid
+stop-new-responses-on-old-requests.lock

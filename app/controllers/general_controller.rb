@@ -72,8 +72,6 @@ class GeneralController < ApplicationController
         medium_cache
         @feed_autodetect = []
         @feed_url = Configuration::blog_feed
-        separator = @feed_url.include?('?') ? '&' : '?'
-        @feed_url = "#{@feed_url}#{separator}lang=#{self.locale_from_params()}"
         @blog_items = []
         if not @feed_url.empty?
             content = quietly_try_to_open(@feed_url)
