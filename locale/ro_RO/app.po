@@ -2403,10 +2403,10 @@ msgid "Show most relevant results first"
 msgstr "Arată mesajele relevante mai întâi"
 
 msgid "Show only..."
-msgstr "Arată numai ..."
+msgstr "Arată numai"
 
 msgid "Showing"
-msgstr "Afşare"
+msgstr "Afișare"
 
 msgid "Sign in"
 msgstr "Intrare in cont"
@@ -3272,7 +3272,7 @@ msgid "View Freedom of Information requests made by {{user_name}}:"
 msgstr "Vezi solicitările solicitările de acces la informații făcute de {{user_name}}:"
 
 msgid "View and search requests"
-msgstr "Vezi şi caută solicitări"
+msgstr "Caută solicitări"
 
 msgid "View authorities"
 msgstr "Vezi autorităţi"
@@ -4216,7 +4216,7 @@ msgid "Novedades"
 msgstr "Noutăți"
 
 msgid "Peticiones destacadas"
-msgstr "Solicitări populare"
+msgstr "Solicitări actualizate recent"
 
 msgid "Leer más »"
 msgstr "Citește mai mult »"
