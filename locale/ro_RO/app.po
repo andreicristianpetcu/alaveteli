@@ -176,7 +176,7 @@ msgstr "<a href=\"%s\">Autentifică-te</a> pentru a schimba parola sau alertele 
 
 msgid ""
 "<a href=\"%s\">Add an annotation</a> (to help the requester or others)"
-msgstr "<a href=\"%s\">Adaugă o adnotare</a> (pentru a ajuta petentul sau pe alții)"
+msgstr "<a href=\"%s\">Scrie un comentariu</a> (pentru a ajuta petentul sau pe alții)"
 
 msgid ""
 "<a href=\"{{url}}\">Sign in</a> to change password, subscriptions and more "
@@ -493,7 +493,7 @@ msgid "ActsAsXapian::ActsAsXapianJob|Model"
 msgstr ""
 
 msgid "Add an annotation"
-msgstr "Adaugă o adnotare."
+msgstr "Scrie un comentariu"
 
 msgid ""
 "Add an annotation to your request with choice quotes, or\\n                a"
