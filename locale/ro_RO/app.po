@@ -3272,7 +3272,7 @@ msgid "View Freedom of Information requests made by {{user_name}}:"
 msgstr "Vezi solicitările solicitările de acces la informații făcute de {{user_name}}:"
 
 msgid "View and search requests"
-msgstr "Caută solicitări"
+msgstr "Alte solicitări"
 
 msgid "View authorities"
 msgstr "Vezi autorităţi"
@@ -4180,7 +4180,7 @@ msgid "Solicitar información"
 msgstr "Solicitări FOI"
 
 msgid "Buscar solicitudes"
-msgstr "Caută solicitări"
+msgstr "Alte solicitări"
 
 msgid "Ejerce tu derecho a saber."
 msgstr "Exercită-ți dreptul de a ști!"
