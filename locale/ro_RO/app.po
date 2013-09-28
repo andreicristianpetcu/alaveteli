@@ -84,7 +84,7 @@ msgid ""
 " Include relevant links, such as to a campaign page, your blog or a\\n"
 "            twitter account. They will be made clickable. \\n            "
 "e.g."
-msgstr "Include link-uri relevante, precum cele către pagina campaniei, blogul tău sau către un cont de Twitter. Acestea vor fi accesibile direct din site. \\n e.g."
+msgstr "Include link-uri relevante, precum cele către pagina campaniei, blogul tău sau către rețele de socializare. Acestea vor fi accesibile direct din site. \\n e.g."
 
 msgid ""
 " Link to the information requested, if it is <strong>already "
