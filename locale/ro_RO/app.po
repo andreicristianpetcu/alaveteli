@@ -1141,7 +1141,7 @@ msgid "Freedom of Information requests made by you"
 msgstr "Solicitări de acces la informații făcute de tine"
 
 msgid "Freedom of Information requests made using this site"
-msgstr "Solicitări de acces la informații făcute utilizănd acest site"
+msgstr "Solicitări de acces la informații făcute utilizând acest site"
 
 msgid "Freedom of information requests to"
 msgstr "Solicitări de acces la informații făcute  către"
@@ -1602,7 +1602,7 @@ msgid "MailServerLog|Order"
 msgstr "MailServerLog|Order"
 
 msgid "Make a new <strong>Freedom of Information</strong> request to {{public_body}}"
-msgstr "Faceți o nouă <strong>solicitare de infromații</strong> instituției {{public_body}}"
+msgstr "Faceți o nouă <strong>solicitare de informații</strong> instituției {{public_body}}"
 
 msgid "Make a new<br/>\\n  <strong>Freedom <span>of</span><br/>\\n  Information<br/>\\n  request</strong>"
 msgstr "Faceți o nouă<br/>\\n  <strong>solicitare <span>de</span><br/>\\n  informații<br/></strong>"
@@ -2893,9 +2893,9 @@ msgstr "Adnotările acestei persoane"
 
 msgid "This person's %d Freedom of Information request"
 msgid_plural "This person's %d Freedom of Information requests"
-msgstr[0] "Acest utilizator a făcut %d solicitări de acces la infromație"
-msgstr[1] "Acest utilizator a făcut %d solicitări de acces la infromație"
-msgstr[2] "Acest utilizator a făcut %d solicitări de acces la infromație"
+msgstr[0] "Acest utilizator a făcut %d solicitări de acces la informație"
+msgstr[1] "Acest utilizator a făcut %d solicitări de acces la informație"
+msgstr[2] "Acest utilizator a făcut %d solicitări de acces la informație"
 
 msgid "This person\'s %d annotation"
 msgid_plural "This person's %d annotations"
@@ -4015,9 +4015,9 @@ msgstr "{{count}} solicitări de acces la informații găsite"
 
 msgid "%d Freedom of Information request to %s"
 msgid_plural "%d Freedom of Information requests to %s"
-msgstr[0] "%d solicitare de infromație instituției %s"
-msgstr[1] "%d solicitări de infromație instituției %s"
-msgstr[2] "%d solicitări de infromație instituției %s"
+msgstr[0] "%d solicitare de informație instituției %s"
+msgstr[1] "%d solicitări de informație instituției %s"
+msgstr[2] "%d solicitări de informație instituției %s"
 
 msgid "{{count}} Freedom of Information request to {{public_body_name}}"
 msgid_plural ""
