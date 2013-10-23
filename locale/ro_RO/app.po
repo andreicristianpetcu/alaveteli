@@ -1279,7 +1279,7 @@ msgid "I've received <strong>all the information"
 msgstr "Am primit <strong> toate informaţiile"
 
 msgid "I've received <strong>some of the information</strong>"
-msgstr "Am primit  <strong>câteva dintre informaţii</strong>"
+msgstr "Am primit <strong>o parte din informaţii</strong>"
 
 msgid "I've received an <strong>error message</strong>"
 msgstr "Am primit  <strong>un mesaj de eroare</strong>"
@@ -2499,10 +2499,10 @@ msgid "Submit"
 msgstr "Trimite"
 
 msgid "Submit status"
-msgstr "Trimite starea"
+msgstr "Schimbă starea"
 
 msgid "Submit status and send message"
-msgstr "Transmite statusul și trimite mesaj"
+msgstr "Schimbă starea și trimite mesaj"
 
 msgid "Subscribe to blog"
 msgstr "Înscriere pentru blog"
@@ -2808,12 +2808,12 @@ msgid "There were no results matching your query."
 msgstr "Nu sunt rezultate care satisfac interogarea ta."
 
 msgid "They are going to reply <strong>by post</strong>"
-msgstr "Ei vor răspunde  <strong>prin postarea </strong>"
+msgstr "Instituția va răspunde <strong>prin poștă</strong>"
 
 msgid ""
 "They do <strong>not have</strong> the information <small>(maybe they say who"
 " does)</small>"
-msgstr "Ei  <strong>nu au</strong> informaţiile <small>(probabil vor spune cine le deţine)</small>"
+msgstr "Această instituție <strong>nu are</strong> informaţiile solicitate<small>(probabil vor spune cine le deţine)</small>"
 
 msgid "They have been given the following explanation:"
 msgstr "Ei au oferit următoarea explicaţie"
@@ -2882,7 +2882,7 @@ msgid ""
 msgstr "Acest mesaj în curs de expediere a fost ascuns. Vezi adnotaţiile pentru\\n»»»»»»a afla de ce. Dacă eşti solicitantul, atunci te poţi <a href=\"{{url}}\">autentifica</a> pentru a vedea răspunsul."
 
 msgid "This particular request is finished:"
-msgstr "Acesată solicitare anume este finalizată:"
+msgstr "Acesată solicitare este finalizată:"
 
 msgid ""
 "This person has made no Freedom of Information requests using this site."
@@ -3375,7 +3375,7 @@ msgid "What are you doing?"
 msgstr "Ce faceţi ?"
 
 msgid "What best describes the status of this request now?"
-msgstr "Ce ar descrie cel mai bine stare aceste solicitări acum ?"
+msgstr "Ce ar descrie cel mai bine stare acestei solicitări?"
 
 msgid "What information has been released?"
 msgstr "Ce informaţii au fost oferite ?"
