@@ -886,16 +886,16 @@ msgid "Date:"
 msgstr "Data:"
 
 msgid "Dear [Authority name],"
-msgstr "Stimată [Authority name],"
+msgstr "Către [Authority name],"
 
 msgid "Dear {{name}},"
-msgstr "Stimată {{name}},"
+msgstr "Către {{name}},"
 
 msgid "Dear {{public_body_name}},"
-msgstr "Stimată {{public_body_name}},"
+msgstr "Către {{public_body_name}},"
 
 msgid "Dear {{user_name}},"
-msgstr "Stimată {{user_name}},"
+msgstr "Către {{user_name}},"
 
 msgid "Defunct."
 msgstr "Defunct."
@@ -4579,7 +4579,7 @@ msgid "Your {{site_name}} email alert"
 msgstr "Alerta ta prin email de la {{site_name}}"
 
 msgid "Yours faithfully,"
-msgstr "Cu respect,"
+msgstr "Vă mulţumesc,"
 
 msgid "Yours sincerely,"
 msgstr "Cu stimă,"
